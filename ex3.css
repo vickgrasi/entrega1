@@ -1,0 +1,27 @@
+.div1 {
+    background-color: #8980c7; 
+    width: 300px; 
+    height: 300px;
+}
+.div2 {
+    background-color: #2a67f6; 
+    width: 75%; 
+    height: 85%
+}
+.p1 {
+    color: #4a3d79; 
+    background-color: #74ffab; 
+    font-size: 80px; 
+    font-family: serif; 
+    font-weight: bold;
+}
+.div3 {
+    width: 70%; 
+    height: 50vh; 
+    background-color: rgb(223, 103, 66);
+}
+.div4 {
+    width: 65vw; 
+    height: 40%; 
+    background-color: #953131;
+}
